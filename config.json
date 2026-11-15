@@ -1,7 +1,1 @@
-
-{
-  "algorithm": "AES-256-GCM",
-  "iv": "HFOL7/Exq8jaVgyq",
-  "data": "9HfkfNRsOWwI0xVFt8wS4DHFXBOoj4MEmWByjxTOUAbYwe2yVKJbbBwZGI6rExzUn1Ieu4679JQeCMo8y4R9OGbQhPWNg0Gp5u0iaK655JW3MBRvARe2R4/un+jYDTgQEdbGNsr5mz45H2PM1vcwNJi2r9Q+kiNfAvK17OQa8kdvkT9Pb9Wfu3FtkplaHYL/gvv0GSM31IEA/PnmjJiHdwFva2AZXjjlbkPNen+cbwuHaBLdXNXEum/Zw4YI3CSlzAM=",
-  "tag": "CHvAHva1630tR7FG6ldQfg=="
-}
+ewogICJiYXNlVXJsIjogImh0dHA6Ly95b3NoaWtvLnB0ZXJvcWRhY3R5bC5teS5pZDoyMTcyIiwKICAid3NVcmwiOiAid3M6Ly95b3NoaWtvLnB0ZXJvcWRhY3R5bC5teS5pZDoyMTcyIgp9
