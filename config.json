@@ -1,4 +1,4 @@
 {
-"baseUrl": "http://bsenzzpanel.pterocloud.my.id",
-"wsUrl": "ws://bsenzzpanel.pterocloud.my.id"
+"baseUrl": "http://bsenzzpanel.pterocloud.my.id:2006",
+"wsUrl": "ws://bsenzzpanel.pterocloud.my.id:2006"
 }
